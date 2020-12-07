@@ -1,0 +1,11 @@
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\bin\Debug\SmallBusiness.Sales.Costumers.BLL.dll
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\bin\Debug\SmallBusiness.Sales.Costumers.BLL.pdb
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\bin\Debug\SmallBusiness.Sales.Costumers.DAL.dll
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\bin\Debug\SmallBusiness.Sales.Costumers.Model.dll
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\bin\Debug\SmallBusiness.Sales.Costumers.DAL.pdb
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\bin\Debug\SmallBusiness.Sales.Costumers.Model.pdb
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\obj\Debug\SmallBusiness.Sales.Costumers.BLL.csprojAssemblyReference.cache
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\obj\Debug\SmallBusiness.Sales.Costumers.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\obj\Debug\SmallBusiness.Sales.Costumers.BLL.csproj.CopyComplete
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\obj\Debug\SmallBusiness.Sales.Costumers.BLL.dll
+C:\Users\Portela\source\repos\SmallBusiness.Sales.Costumers\SmallBusiness.Sales.Costumers.BLL\obj\Debug\SmallBusiness.Sales.Costumers.BLL.pdb

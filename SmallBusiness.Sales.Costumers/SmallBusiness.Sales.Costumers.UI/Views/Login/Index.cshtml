@@ -1,0 +1,59 @@
+﻿@model SmallBusiness.Sales.Costumers.UI.Models.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>@ViewBag.Title</h2>
+@using (Html.BeginForm("Login", "Login", FormMethod.Post))
+{
+    <body>
+        <div>
+            <div>
+                <span>
+                    E-Mail:
+                </span>
+            </div>
+            <div>
+                @Html.TextBoxFor(model => model.Email, new { id = "txtEmail"})
+            </div>
+            <div>
+                <span>
+                    Password:
+                </span>
+            </div>
+            <div>
+                @Html.TextBoxFor(model => model.Password, new { type = "password", id = "txtPass" })
+            </div>
+            <div>
+                <button type="submit" id="btnLogin" disabled>Login</button>
+            </div>
+            @if (Model != null && !string.IsNullOrEmpty(Model.Message))
+            {
+                <div>
+                    <span>
+                        @Model.Message
+                    </span>
+                </div>
+            }
+        </div>
+    </body>
+}
+
+<script>
+
+    $('#txtEmail').change(function () {
+        var email = $(this).text;
+        var password = $('#txtPass').text;
+        if (email.length > 3 && password.length > 2) {
+            $('#btnLogin').attr('disabled', false);
+        }
+    });
+
+    $('#txtPass').change(function () {
+        var email = $('#txtEmail').text;
+        var password = $(this).text;
+        if (email.length > 3 && password.length > 2) {
+            $('#btnLogin').attr('disabled', false);
+        }
+    });
+</script>
